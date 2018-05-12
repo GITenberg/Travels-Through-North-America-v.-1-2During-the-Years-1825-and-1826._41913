@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41424'
     url: http://www.gutenberg.org/2009/agents/41424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41913#Travels-Through-North-America-v.-1-2During-the-Years-1825-and-1826.
 gutenberg_issued: '2013-01-24'
 gutenberg_type: Text
 identifiers:
