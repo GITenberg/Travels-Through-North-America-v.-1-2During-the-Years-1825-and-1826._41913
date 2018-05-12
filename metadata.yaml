@@ -1,0 +1,37 @@
+_repo: Travels-Through-North-America-v.-1-2During-the-Years-1825-and-1826._41913
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernhard, Duke of Saxe-Weimar-Eisenach
+    aliases:
+    - Karl Bernhard, Duke of Saxe-Weimar-Eisenach
+    - Saxe-Weimar-Eisenach, Karl Bernhard, Duke of
+    - Carl Bernhard, Duke of Saxe-Weimar-Eisenach
+    - Bernard, Duke of Saxe-Weimar-Eisenach
+    - Charles Bernard, Duke of Saxe-Weimar-Eisenach
+    birthdate: 1792
+    deathdate: 1862
+    gutenberg_agent_id: '41424'
+    url: http://www.gutenberg.org/2009/agents/41424
+description: ''
+gutenberg_issued: '2013-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41913'
+  lccn: '02000356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bernhard, Duke of Saxe-Weimar-Eisenach, 1792-1862 -- Travel -- Canada'
+- !lcsh 'Bernhard, Duke of Saxe-Weimar-Eisenach, 1792-1862 -- Travel -- United States'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+title: Travels Through North America, During the Years 1825 and 1826. v. 1-2
+url: http://www.gutenberg.org/ebooks/41913
